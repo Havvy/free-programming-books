@@ -1719,6 +1719,7 @@ See also [TeX](#tex)
 * [Rust by Example](http://rustbyexample.com/)
 * [Rust for Rubyists](http://www.rustforrubyists.com/book/index.html)
 * [The Rust Programming Language](http://doc.rust-lang.org/book/)
+* [The Unsafe Rust Programming Language](http://cglab.ca/~abeinges/blah/turpl/_book/)
 
 
 ### Sage
